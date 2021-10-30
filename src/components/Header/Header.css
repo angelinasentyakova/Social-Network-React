@@ -1,0 +1,26 @@
+.img {
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  margin: 0px 20px;
+}
+.header {
+  grid-area: h;
+  background-color: #42313A;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  position: relative;
+}
+.header-name {
+  color: #F1DCC9;
+  font-size: 20px;
+}
+
+.login {
+  color: #F1DCC9;
+  font-weight: 700;
+  font-size: 20px;
+  position: absolute;
+  right: 30px;
+}

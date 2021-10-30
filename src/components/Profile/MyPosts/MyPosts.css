@@ -1,0 +1,20 @@
+.posts {
+  margin-left: 10px;
+}
+
+.new-post {
+  margin-bottom: 30px;
+}
+.new-post-input {
+  margin-bottom: 10px;
+  width: 300px; 
+  height: 60px;
+}
+
+.new-post-send {
+  background: #9F4636;
+  padding: 5px 10px;
+  color: #F1DCC9;
+  font-weight: 600;
+  border-radius: 15px;
+}

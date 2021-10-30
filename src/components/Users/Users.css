@@ -1,0 +1,43 @@
+.loading-img {
+  width: 30px;
+  height: 30px;
+}
+
+.user-wrapper {
+  display: flex;
+  margin-bottom: 25px;
+  padding: 15px;
+}
+
+.left-column {
+  flex: 0 0 20%;
+}
+
+.user-photo-wrapper {
+  margin-bottom: 10px;
+}
+
+.user-photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.user-button {
+  padding: 10px 20px;
+  border-radius: 5px;
+  background: #9F4636;
+  color: #F1DCC9;
+  font-weight: 600;
+  margin: 0px 10px;
+}
+
+.right-column {
+  flex: 0 0 80%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.user-info {
+  
+}
