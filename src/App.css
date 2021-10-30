@@ -1,0 +1,26 @@
+ul {
+  list-style: none;
+  margin:0;
+  padding: 0;
+}
+body {
+  padding: 10px 0px;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+a.active {
+  font-weight: 700;
+}
+.app-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-areas:
+  "h h "
+  "n m";
+  grid-template-rows: 60px 1fr;
+  grid-template-columns: 2fr 10fr;
+  grid-gap: 10px;
+}

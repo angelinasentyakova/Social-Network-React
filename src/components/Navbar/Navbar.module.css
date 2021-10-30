@@ -1,0 +1,13 @@
+.nav {
+  grid-area: n;
+  background-color: #6C2D2C;
+  border-radius: 5px;
+}
+.nav ul {
+  padding: 25px 10px 10px 20px;
+  font-size: 20px;
+}
+.item {
+  margin-bottom: 10px;
+  color: #F1DCC9;
+}

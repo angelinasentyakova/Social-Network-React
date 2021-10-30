@@ -1,0 +1,24 @@
+.dialogs-wrapper {
+  display: flex;
+}
+.dialogs-items {
+  flex: 0 0 30%;
+  padding: 10px;
+}
+.dialogs-messages {
+  flex: 0 0 70%;
+  padding: 10px;
+}
+.dialogs-messages-posted {
+  min-height: 150px;
+  max-height: 150px;
+  overflow-y: auto;
+  margin-bottom: 20px;
+}
+.message-input {
+  height: 100px;
+  width: 70px;
+}
+.message-send {
+  margin-top: 10px;
+}

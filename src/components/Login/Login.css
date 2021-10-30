@@ -1,0 +1,11 @@
+.login-wrapper {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+  margin: 30px 0px;
+}
+
+.login-title {
+  margin-bottom: 15px;
+  color: #42313A;
+}

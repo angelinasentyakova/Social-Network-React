@@ -1,0 +1,9 @@
+.profile-info-wrapper {
+  margin-bottom: 20px;
+}
+
+.profile-info-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

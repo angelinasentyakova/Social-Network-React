@@ -1,0 +1,36 @@
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.users-pagination {
+  display: flex;
+  justify-content: center;
+  min-width: 400px;
+  margin: 0px 15px;
+}
+
+.users-pagination li {
+  padding: 5px 3px;
+  background-color: #42313A ;
+  color: #F1DCC9;
+  border-radius: 10px;
+  margin: 0px 3px;
+  font-weight: 600;
+  min-width: 35px;
+display: flex;
+justify-content: center;
+cursor: pointer;
+}
+
+.users-pagination li.users-selected-page {
+  background:#9F4636; 
+}
+
+.pagination-container button {
+  padding: 5px 10px;
+  background-color: #42313A ;
+  color: #F1DCC9;
+  border-radius: 10px;
+  font-weight: 600;
+}
